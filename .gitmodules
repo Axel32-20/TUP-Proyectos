@@ -1,3 +1,6 @@
 [submodule "TP2/Ejercicio-2"]
 	path = TP2/Ejercicio-2
 	url = https://github.com/Axel32-20/MyRepository-TP2-TUP
+[submodule "TP2/Ejercicio-3"]
+	path = TP2/Ejercicio-3
+	url = https://github.com/Axel32-20/conflict-exercise.git
